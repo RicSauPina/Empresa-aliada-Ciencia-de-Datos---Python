@@ -2,23 +2,23 @@
 Este es un modelo de ciencia de datos durante los estudios/cursos, desarrollado con el fin de analizar/poner en práctica distintos temas vistos en varios cursos de ciencia de datos y con el uso de bases de datos prestadas de una empresa aliada se realizará un análisis y un diagnóstico predictivo.
 
 ## Librerias utilizadas en el modelo
-### Graficas 
+###     Graficas 
     Seaborn
-  Matplotlib
+    Matplotlib
 
 
-### Texto
-Re
+###     Texto
+    Re
 
-### Manipulacion de datos
-Pandas
+###     Manipulacion de datos
+    Pandas
 
-### Calculos algebraicos
-Numpy
+###     Calculos algebraicos
+    Numpy
 
-### Modelado
-Arima
-mlxtend
+###     Modelado
+    Arima
+    mlxtend
 
 ## Descripción del proyecto
 En el proyecto hay 5 diferentes archivos de jupyternotebook. Cada uno con del 0.5 al paso 3 son la división del codigo con explicaciones paso a paso de como fue que se realizo este proyecto y el final "Empresa Aliada (Codigo Completo)" Es la fusión de todos los codigos previos para hacer una demostración del codigo.
