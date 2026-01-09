@@ -3,8 +3,8 @@ Este es un modelo de ciencia de datos durante los estudios/cursos, desarrollado 
 
 ## Librerias utilizadas en el modelo
 ### Graficas 
-Seaborn
-Matplotlib
+    Seaborn
+  Matplotlib
 
 
 ### Texto
